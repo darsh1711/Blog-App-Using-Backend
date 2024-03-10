@@ -34,6 +34,10 @@ https://github.com/darsh1711/Blog-App-Using-Backend.git
 ```bash
 cd mern-blog-backend
 npm install
+npm i express
+npm i nodemon
+npm i mongoose
+npm i dotenv
 ```
 
 3. Set up environment variables:
